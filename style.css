@@ -28,7 +28,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-color: blanchedalmond;
+	background-color: url("../images/santa-wish.jpg");
 }
 .appBackground-default {
 	width: inherit;
