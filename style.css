@@ -28,7 +28,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-color: url("../images/santa-wish.jpg");
+	background-color: #03045e;
 }
 .appBackground-default {
 	width: inherit;
@@ -120,7 +120,7 @@ body {
 	align-items: center;
 	row-gap: 8px;
 	display: none;
-	background:url('../images/santa-wish.jpg');
+	background:#03045e;
 }
 
 .hearts {
