@@ -29,6 +29,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	background-color: #03045e;
+	background: #03045e;
 }
 .appBackground-default {
 	width: inherit;
@@ -120,7 +121,8 @@ body {
 	align-items: center;
 	row-gap: 8px;
 	display: none;
-	background:#03045e;
+	background-color:#03045e;
+	background:#03045e
 }
 
 .hearts {
