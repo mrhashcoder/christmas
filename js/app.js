@@ -49,7 +49,7 @@ function one(el, type, callback) {
 const mesg6 = "Merry Christmas 💖💖💖"
 
 function main() {
-    // fullScreen()
+    fullScreen()
     introComponent.style.display = 'none'
     appBackgroundDefault.style.opacity = 0
     loadingComponent.style.display = 'flex'
